@@ -24,8 +24,9 @@ SCRABBLE_LETTER_VALUES = {
 # Helper code
 # (you don't need to understand this helper code)
 
+#"/home/kolya/Desktop/Studying/DKR1/words.txt"
 # "words.txt"
-WORDLIST_FILENAME = "/home/kolya/Desktop/Studying/DKR1/words.txt"
+WORDLIST_FILENAME = "words.txt"
 
 def load_words():
     """
