@@ -441,7 +441,6 @@ def play_game(word_list):
     hand = deal_hand(HAND_SIZE)
     counter = 1
     while counter <= hands:
-        print("counter: ", counter)
         if replay == 1:
             pass
         elif replay == 0:
